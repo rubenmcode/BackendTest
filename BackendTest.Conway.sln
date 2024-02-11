@@ -5,7 +5,12 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendTest.Conway", "BackendTest.Conway\BackendTest.Conway.csproj", "{5B42E06E-1C69-4C9C-BA89-19A6850A3067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendTest.Conway.UnitTests", "BackendTest.Conway.UnitTests\BackendTest.Conway.UnitTests.csproj", "{535F9B07-3335-42AD-868A-BB0799C8A444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendTest.Conway.UnitTests", "BackendTest.Conway.UnitTests\BackendTest.Conway.UnitTests.csproj", "{535F9B07-3335-42AD-868A-BB0799C8A444}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A6D9CDBD-114B-4926-8CD1-5719232CB888}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
